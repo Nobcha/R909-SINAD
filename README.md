@@ -6,7 +6,7 @@ R909-SINAD indicator SPECs.
 今までATmega328Pを使ってR909シリーズを展開してきましたが、メモリー容量の限界で自由なスケッチ展開がむつかしくなりました。そこでコスパ抜群、80MHz/8MByteなのにサイズもコンパクトなESP-C3 dev kit super miniにCPUを入れ替えることにします。
 まずは手始めにSINAD indicatorを試作することにしました。
 
-![R80 SINAD] (https://github.com/Nobcha/R909-SINAD/blob/main/R80_118100_SINAD.jpg)
+![R80 SINAD](https://github.com/Nobcha/R909-SINAD/blob/main/R80_118100_SINAD.jpg)
 
 基板にはESP-C3 dev kit super mini、OLED（SSD1306）用ピンソケット、ロータリーエンコーダ、スイッチが載っています。SINADインディケーターの仕様は次になります。
 項目/内容
